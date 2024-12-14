@@ -6,7 +6,7 @@
 2. ✅ Декомпозиция конфига. Опции конфигурации
 3. ✅ Webpack-dev-server. Переменные окружения (env) 
 4. ✅ Подключаем React и настраиваем css в webpack
-5. Настраиваем css modules
+5. ✅ Настраиваем css modules
 6. Роутинг Code splitting Lazy Suspence
 7. Организация стилей. Добавляем темы
 8. classNames создаем git репозиторий
